@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MMath Mathematics, The University of Manchester, 2017
-* Ph.D in Mathematical Sciences - Numerical Analysis, University of Manchester, 2022 (expected)
+* Ph.D in Mathematical Sciences - Numerical Analysis, The University of Manchester, 2022 (expected)
 
 Work experience
 ======
